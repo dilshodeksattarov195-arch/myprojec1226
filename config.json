@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchcetch",
+        "uuid": 10928564,
+        "checksum": "6nigbi"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
